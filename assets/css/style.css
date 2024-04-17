@@ -1396,3 +1396,9 @@ section {
     margin: -20px 0 30px 0;
   }
 }
+.align-middle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%; /
+}
